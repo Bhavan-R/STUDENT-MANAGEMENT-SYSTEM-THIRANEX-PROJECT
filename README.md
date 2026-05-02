@@ -181,11 +181,13 @@ Displays the primary navigation menu with all available operations such as addin
 
 <img width="950" height="790" alt="image" src="https://github.com/user-attachments/assets/514f3c22-81d8-4f42-9927-52338ca14528" />
 
+
 2. Adding a New Student
 
 Shows the process of entering student details with proper input validation for fields like name, email, age, semester, GPA, and course.
 
 <img width="815" height="769" alt="image" src="https://github.com/user-attachments/assets/88ae1ffd-5e63-4f0d-9aa5-f47da4d3c118" />
+
 
 3. Viewing All Records
 
@@ -193,11 +195,13 @@ Displays all stored student records in a well-structured tabular format includin
 
 <img width="951" height="797" alt="image" src="https://github.com/user-attachments/assets/e5051a65-11eb-44e4-a619-12d427c5ab75" />
 
+
 4. Searching Student Records
 
 Demonstrates searching functionality using student name with partial match support.
 
 <img width="692" height="789" alt="image" src="https://github.com/user-attachments/assets/67a8ea5d-d853-4f61-9760-676abad27baf" />
+
 
 5. Updating Student Details
 
@@ -205,11 +209,13 @@ Illustrates how existing student information can be modified with selective fiel
 
 <img width="738" height="827" alt="image" src="https://github.com/user-attachments/assets/61a4e8b7-4af4-48f1-be0d-da56732b9cc0" />
 
+
 6. Deleting a Record
 
 Shows the deletion process with confirmation prompt to prevent accidental data loss.
 
 <img width="698" height="819" alt="image" src="https://github.com/user-attachments/assets/77899bb9-f6e1-407b-9bf9-3221185dd113" />
+
 
 7. Statistics Dashboard
 
